@@ -13,3 +13,8 @@ python normalize_text.py my_file.txt remove_punctuation lemmatization stemming l
 
 ### ---All options---
 lowercase stemming lemmatization stopwords remove_punctuation
+
+![image](https://github.com/user-attachments/assets/92b629ad-8225-4a1e-b636-d75394ced1eb)
+![image](https://github.com/user-attachments/assets/00bb498d-27f6-4e79-aadb-bfe41f9b8efe)
+![image](https://github.com/user-attachments/assets/37e47741-dccf-41c8-8671-5a56a1413e24)
+
