@@ -9,6 +9,9 @@ python normalize_text.py my_file.txt
 
 Plots will pop up, so you have to close them if you want to continue...
 
+### ---Results---
+The output results are written into the word_counts.txt file
+
 ### ---Using options---
 python normalize_text.py my_file.txt stopwords  
 python normalize_text.py my_file.txt stopwords stemming remove_punctuation  
