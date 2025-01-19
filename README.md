@@ -1,8 +1,7 @@
 ### ---Setup---
-1. Download the code, extract it, and run it in VSCode
+1. Download the zip file, click "extract here", and open it up in VSCode
 2. Open up the terminal, use Bash
 3. pip install matplotlib
-4. Make sure you're in the right file before running the program command below, you might have to cd into another count-token-main file again if there is one
 
 ### ---Run the program---
 python normalize_text.py my_file.txt
